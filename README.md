@@ -30,3 +30,5 @@ An Exploratory Data Analysis project on a Netflix dataset, examining the correla
 
 # Appendix
 📑 Additional resources include code snippets, detailed analysis findings, and rich visualizations that offer deeper insights into Netflix's content dynamics.
+
+# For comprehensive details and documentation about this project, please refer to the full documentation available in the same repository.
